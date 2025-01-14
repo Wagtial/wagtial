@@ -2,7 +2,7 @@
 # https://docs.coderedcorp.com/wagtail-crx/releases/
 coderedcms==4.0.*
 wagtail==6.3.*
-django==5.0.9
+django==5.0.10
 setuptools
 fiona
 pyproj
