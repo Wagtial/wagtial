@@ -1,8 +1,8 @@
 # Consult release notes for supported versions of Django, Wagtail, and Python.
 # https://docs.coderedcorp.com/wagtail-crx/releases/
-coderedcms==4.0.*
+coderedcms==4.1.*
 wagtail==6.3.*
-django==5.0.9
+django>=5.0.10,<5.10
 setuptools
 fiona
 pyproj
